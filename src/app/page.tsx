@@ -48,14 +48,14 @@ export default function LandingPage() {
             title="Luxury Roofing. Timeless Curb Appeal."
             description="Manufactures Roofing & Siding creates high-end exterior transformations with elite craftsmanship and white-glove service trusted for generations."
             testimonials={[
-              { name: "Bruce M.", handle: "@bruce", testimonial: "Professional, honest, and never pushy.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg", imageAlt: "luxury house roofing exterior" },
-              { name: "Henry D.", handle: "@henry", testimonial: "Fast response before a storm, transparent pricing.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg", imageAlt: "luxury house roofing exterior" },
+              { name: "Bruce M.", handle: "@bruce", testimonial: "Professional, honest, and never pushy.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=1", imageAlt: "luxury house roofing exterior" },
+              { name: "Henry D.", handle: "@henry", testimonial: "Fast response before a storm, transparent pricing.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=1", imageAlt: "luxury house roofing exterior" },
               { name: "Kelly L.", handle: "@kelly", testimonial: "The siding installation transformed our home.", rating: 5, imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg", imageAlt: "luxury house roofing exterior" },
               { name: "Jason L.", handle: "@jason", testimonial: "Top-tier professionalism with attention to detail.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/electrician-examines-construction-site-while-holding-electrical-cable-his-hand-worksite_169016-12127.jpg", imageAlt: "luxury house roofing exterior" },
               { name: "Sarah P.", handle: "@sarah", testimonial: "Flawless installation, highly recommended.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/abandoned-house-with-rusty-stairs_23-2149454810.jpg", imageAlt: "luxury house roofing exterior" },
             ]}
             buttons={[{ text: "Get Free Estimate", href: "#contact" }, { text: "View Projects", href: "#about" }]}
-            imageSrc="http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=2"
             imageAlt="Luxury home exterior"
             avatars={[{ src: "http://img.b2bpic.net/free-photo/horizontal-portrait-beautiful-positive-young-european-female-blue-shirt-dress-relaxing-home-looking-front-with-easy-carefree-smile_343059-3894.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/portrait-confident-man-home-office_329181-20664.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/smiley-man-looking-camera-holding-cup-coffee_23-2148306626.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/happy-handsome-dark-haired-latin-man-posing-with-arms-folded-kitchen_74855-8094.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/young-lady-standing-with-crossed-arms-checked-shirt-hat-looking-confident_176474-47786.jpg", alt: "Satisfied client portrait" }]}
             marqueeItems={[{ type: "text", text: "Premium Roofing" }, { type: "text", text: "Elite Craftsmanship" }, { type: "text", text: "Storm Restoration" }, { type: "text", text: "James Hardie Siding" }, { type: "text", text: "Licensed & Insured" }]}
@@ -69,7 +69,7 @@ export default function LandingPage() {
             title="Built on Craftsmanship. Driven by Trust."
             description="Manufactures Roofing & Siding specializes in premium roofing systems and high-end exterior remodels, carrying a 3rd-generation legacy of excellence."
             bulletPoints={[{ title: "Elite Craftsmanship", description: "Three generations of expertise in luxury roofing." }, { title: "Transparent Pricing", description: "Clear, honest communication with no hidden costs." }, { title: "Storm Experts", description: "24-hour response guarantee for storm damage." }]}
-            imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=2"
             mediaAnimation="slide-up"
           />
         </div>
