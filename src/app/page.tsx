@@ -38,6 +38,7 @@ export default function LandingPage() {
               { name: "Testimonials", id: "testimonials" },
               { name: "Contact", id: "contact" },
             ]}
+            logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DAe4BrTfI9CrjBldicDiGfbMZB/uploaded-1777734958504-osbr87sn.jpg"
             brandName="Manufactures Roofing & Siding "
             button={{ text: "Get Quote", href: "#contact" }}
           />
@@ -149,6 +150,7 @@ export default function LandingPage() {
         <div id="footer" data-section="footer">
           <FooterLogoReveal
             logoText="Manufactures Roofing & Siding"
+            logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DAe4BrTfI9CrjBldicDiGfbMZB/uploaded-1777734958504-osbr87sn.jpg"
             leftLink={{ text: "Privacy Policy", href: "#" }}
             rightLink={{ text: "Terms of Service", href: "#" }}
           />
