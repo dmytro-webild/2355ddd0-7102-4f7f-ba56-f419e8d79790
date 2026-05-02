@@ -80,9 +80,9 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             features={[
-              { title: "Luxury Roofing", description: "High-end replacement and repair.", bentoComponent: { bentoComponent: "reveal-icon", icon: Hammer } },
-              { title: "James Hardie Siding", description: "Premium durability and curb appeal.", bentoComponent: { bentoComponent: "reveal-icon", icon: SquareStack } },
-              { title: "Storm Restoration", description: "Rapid emergency storm repair.", bentoComponent: { bentoComponent: "reveal-icon", icon: CloudLightning } },
+              { title: "Luxury Roofing", description: "High-end replacement and repair.", bentoComponent: "reveal-icon", icon: Hammer },
+              { title: "James Hardie Siding", description: "Premium durability and curb appeal.", bentoComponent: "reveal-icon", icon: SquareStack },
+              { title: "Storm Restoration", description: "Rapid emergency storm repair.", bentoComponent: "reveal-icon", icon: CloudLightning },
             ]}
             title="Our Specialized Services"
             description="We offer a full suite of exterior solutions to enhance your home's value and aesthetic."
