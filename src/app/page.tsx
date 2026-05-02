@@ -68,7 +68,7 @@ export default function LandingPage() {
           handle: "@bruce",
           testimonial: "Professional, honest, and never pushy.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=1",
           imageAlt: "luxury house roofing exterior",
         },
         {
@@ -76,7 +76,7 @@ export default function LandingPage() {
           handle: "@henry",
           testimonial: "Fast response before a storm, transparent pricing.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=1",
           imageAlt: "luxury house roofing exterior",
         },
         {
@@ -84,7 +84,7 @@ export default function LandingPage() {
           handle: "@kelly",
           testimonial: "The siding installation transformed our home.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg?_wi=1",
           imageAlt: "luxury house roofing exterior",
         },
         {
@@ -92,7 +92,7 @@ export default function LandingPage() {
           handle: "@jason",
           testimonial: "Top-tier professionalism with attention to detail.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/electrician-examines-construction-site-while-holding-electrical-cable-his-hand-worksite_169016-12127.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/electrician-examines-construction-site-while-holding-electrical-cable-his-hand-worksite_169016-12127.jpg?_wi=1",
           imageAlt: "luxury house roofing exterior",
         },
         {
@@ -100,7 +100,7 @@ export default function LandingPage() {
           handle: "@sarah",
           testimonial: "Flawless installation, highly recommended.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/abandoned-house-with-rusty-stairs_23-2149454810.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abandoned-house-with-rusty-stairs_23-2149454810.jpg?_wi=1",
           imageAlt: "luxury house roofing exterior",
         },
       ]}
@@ -114,7 +114,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=2"
       imageAlt="Luxury home exterior"
       avatars={[
         {
@@ -183,7 +183,7 @@ export default function LandingPage() {
           description: "24-hour response guarantee for storm damage.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
@@ -201,7 +201,7 @@ export default function LandingPage() {
             bentoComponent: "reveal-icon",
             icon: Hammer,
           },
-          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg?_wi=2",
           imageAlt: "luxury roof replacement service icon",
         },
         {
@@ -211,7 +211,7 @@ export default function LandingPage() {
             bentoComponent: "reveal-icon",
             icon: SquareStack,
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=3",
           imageAlt: "luxury roof replacement service icon",
         },
         {
@@ -221,7 +221,7 @@ export default function LandingPage() {
             bentoComponent: "reveal-icon",
             icon: CloudLightning,
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=3",
           imageAlt: "luxury roof replacement service icon",
         },
       ]}
@@ -243,7 +243,7 @@ export default function LandingPage() {
           quote: "Professional, honest, and never pushy.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiley-father-posing-with-arms-crossed_23-2148414862.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=4",
           imageAlt: "portrait of satisfied homeowner",
         },
         {
@@ -254,7 +254,7 @@ export default function LandingPage() {
           quote: "Fast response before a storm, transparent pricing.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/expressive-young-woman-posing_176474-26549.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=4",
           imageAlt: "portrait of satisfied homeowner",
         },
         {
@@ -265,7 +265,7 @@ export default function LandingPage() {
           quote: "The siding installation transformed our home.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/front-view-cute-girl-looking-away_23-2148436134.jpg",
-          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/insurance-simple-element_24908-54321.jpg?_wi=3",
           imageAlt: "portrait of satisfied homeowner",
         },
         {
@@ -276,7 +276,7 @@ export default function LandingPage() {
           quote: "Top-tier professionalism with incredible attention to detail.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/businessman-checking-checklist_1153-1091.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/electrician-examines-construction-site-while-holding-electrical-cable-his-hand-worksite_169016-12127.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/electrician-examines-construction-site-while-holding-electrical-cable-his-hand-worksite_169016-12127.jpg?_wi=2",
           imageAlt: "portrait of satisfied homeowner",
         },
         {
@@ -287,7 +287,7 @@ export default function LandingPage() {
           quote: "I would absolutely hire them again.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-with-book-kitchen_23-2148294003.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/abandoned-house-with-rusty-stairs_23-2149454810.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abandoned-house-with-rusty-stairs_23-2149454810.jpg?_wi=2",
           imageAlt: "portrait of satisfied homeowner",
         },
       ]}
