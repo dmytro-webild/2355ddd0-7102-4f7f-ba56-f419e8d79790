@@ -59,7 +59,7 @@ export default function LandingPage() {
             mediaItems={[
               { imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=1", imageAlt: "Roof installation detail" },
               { imageSrc: "http://img.b2bpic.net/free-photo/construction-worker-doing-his-job-with-belt_23-2149343658.jpg?_wi=1", imageAlt: "Construction worker" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/luxury-house-real-estate-sale-property-generative-ai_169016-29365.jpg", imageAlt: "Completed exterior" }
+              { imageSrc: "http://img.b2bpic.net/free-photo/luxury-house-real-estate-sale-property-generative-ai_169016-29365.jpg?_wi=1", imageAlt: "Completed exterior" }
             ]}
           />
         </div>
@@ -141,7 +141,7 @@ export default function LandingPage() {
               { name: "email", type: "email", placeholder: "Email Address", required: true },
               { name: "phone", type: "tel", placeholder: "Phone Number", required: true },
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/luxury-house-real-estate-sale-property-generative-ai_169016-29365.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/luxury-house-real-estate-sale-property-generative-ai_169016-29365.jpg?_wi=2"
             buttonText="Request Free Estimate"
           />
         </div>
