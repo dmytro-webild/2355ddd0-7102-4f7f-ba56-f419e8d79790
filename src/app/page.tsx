@@ -37,7 +37,7 @@ export default function LandingPage() {
               { name: "Testimonials", id: "testimonials" },
               { name: "Contact", id: "contact" },
             ]}
-            brandName="Manufactures"
+            brandName="Manufactures Roofing & Siding "
             button={{ text: "Get Quote", href: "#contact" }}
           />
         </div>
@@ -45,7 +45,7 @@ export default function LandingPage() {
         <div id="hero" data-section="hero">
           <HeroBillboardTestimonial
             background={{ variant: "gradient-bars" }}
-            title="Luxury Roofing. Timeless Curb Appeal."
+            title="Installed as designed by the Manufacture. "
             description="Manufactures Roofing & Siding creates high-end exterior transformations with elite craftsmanship and white-glove service trusted for generations."
             testimonials={[
               { name: "Bruce M.", handle: "@bruce", testimonial: "Professional, honest, and never pushy.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=1", imageAlt: "luxury house roofing exterior" },
@@ -57,7 +57,7 @@ export default function LandingPage() {
             buttons={[{ text: "Get Free Estimate", href: "#contact" }, { text: "View Projects", href: "#about" }]}
             imageSrc="http://img.b2bpic.net/free-photo/man-walking-roof_1321-1041.jpg?_wi=2"
             imageAlt="Luxury home exterior"
-            avatars={[{ src: "http://img.b2bpic.net/free-photo/horizontal-portrait-beautiful-positive-young-european-female-blue-shirt-dress-relaxing-home-looking-front-with-easy-carefree-smile_343059-3894.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/portrait-confident-man-home-office_329181-20664.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/smiley-man-looking-camera-holding-cup-coffee_23-2148306626.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/happy-handsome-dark-haired-latin-man-posing-with-arms-folded-kitchen_74855-8094.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/young-lady-standing-with-crossed-arms-checked-shirt-hat-looking-confident_176474-47786.jpg", alt: "Satisfied client portrait" }]}
+            avatars={[{ src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DAe4BrTfI9CrjBldicDiGfbMZB/tmp/residential-roof-ridge-1777731004834-5a79e302.png", alt: "Satisfied client portrait" }, { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DAe4BrTfI9CrjBldicDiGfbMZB/tmp/black-metal-roof-1777731372774-b064bdc1.png", alt: "Satisfied client portrait" }, { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DAe4BrTfI9CrjBldicDiGfbMZB/tmp/residential-roof-ridge-1777731004834-5a79e302.png", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/happy-handsome-dark-haired-latin-man-posing-with-arms-folded-kitchen_74855-8094.jpg", alt: "Satisfied client portrait" }, { src: "http://img.b2bpic.net/free-photo/young-lady-standing-with-crossed-arms-checked-shirt-hat-looking-confident_176474-47786.jpg", alt: "Satisfied client portrait" }]}
             marqueeItems={[{ type: "text", text: "Premium Roofing" }, { type: "text", text: "Elite Craftsmanship" }, { type: "text", text: "Storm Restoration" }, { type: "text", text: "James Hardie Siding" }, { type: "text", text: "Licensed & Insured" }]}
           />
         </div>
